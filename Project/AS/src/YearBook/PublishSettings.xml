@@ -67,8 +67,8 @@
     <EventFormat>0</EventFormat>
     <EventCompress>7</EventCompress>
     <OverrideSounds>0</OverrideSounds>
-    <Version>28</Version>
-    <ExternalPlayer>FlashPlayer17.0</ExternalPlayer>
+    <Version>10</Version>
+    <ExternalPlayer>AdobeAIR2_5</ExternalPlayer>
     <ActionScriptVersion>3</ActionScriptVersion>
     <PackageExportFrame>1</PackageExportFrame>
     <PackagePaths></PackagePaths>

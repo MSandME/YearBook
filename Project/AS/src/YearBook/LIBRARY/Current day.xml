@@ -1,15 +1,68 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Current day" itemID="56bcbbf0-00000005" lastModified="1455209615">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Current day" itemID="56bcbbf0-00000005" linkageExportForAS="true" linkageClassName="code.ui.calender.MainInterface" lastModified="1455212155">
   <timeline>
     <DOMTimeline name="Current day">
       <layers>
-        <DOMLayer name="Layer 2" color="#9933CC">
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
-              <elements/>
+              <elements>
+                <DOMDynamicText name="day_txt" selected="true" fontRenderingMode="standard" width="309.65" height="145.85" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-154.8" ty="31.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>12</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="96" bitmapSize="1920" face="BMitraBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="month_txt" selected="true" fontRenderingMode="standard" width="309.65" height="75.95" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-154.8" ty="113.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> ﺭﻮﯾﺮﻬﺷ</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="BMitraBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="year_txt" selected="true" fontRenderingMode="standard" width="309.65" height="91.15" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-154.8" ty="183.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1394</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="60" bitmapSize="1200" face="BMitraBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="day_name_txt" selected="true" fontRenderingMode="standard" width="309.65" height="75.95" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-154.8" ty="-1.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ﻪﺒﻨﺷ</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="BMitraBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="BackGround" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="BackGround" color="#4F80FF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -26,58 +79,6 @@
                     <Edge fillStyle1="1" edges="!-9488 -440|32328 -440!32328 -440|32328 5820!32328 5820|-9488 5820!-9488 5820|-9488 -440"/>
                   </edges>
                 </DOMShape>
-                <DOMDynamicText fontRenderingMode="standard" width="309.65" height="145.85" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
-                  <matrix>
-                    <Matrix tx="-154.8" ty="31.4"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>12</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" size="96" bitmapSize="1920" face="BMitraBold" fillColor="#FFFFFF"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
-                <DOMDynamicText fontRenderingMode="standard" width="309.65" height="75.95" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
-                  <matrix>
-                    <Matrix tx="-154.8" ty="113.7"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters> ﺭﻮﯾﺮﻬﺷ</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="BMitraBold" fillColor="#FFFFFF"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
-                <DOMDynamicText fontRenderingMode="standard" width="309.65" height="91.15" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
-                  <matrix>
-                    <Matrix tx="-154.8" ty="183.75"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>1394</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" size="60" bitmapSize="1200" face="BMitraBold" fillColor="#FFFFFF"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
-                <DOMDynamicText fontRenderingMode="standard" width="309.65" height="75.95" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
-                  <matrix>
-                    <Matrix tx="-154.8" ty="-1.2"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>ﻪﺒﻨﺷ</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" size="50" bitmapSize="1000" face="BMitraBold" fillColor="#FFFFFF"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
               </elements>
             </DOMFrame>
           </frames>

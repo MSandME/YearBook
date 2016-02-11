@@ -1,6 +1,6 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1024" height="768" frameRate="30" currentTimeline="1" xflVersion="2.6" creatorInfo="Adobe Flash Professional CC" platform="Windows" versionInfo="Saved by Adobe Flash Windows 15.0 build 179" majorVersion="15" buildNumber="179" viewAngle3D="95.9964345971146" vanishingPoint3DX="240" vanishingPoint3DY="400" previewMode="full" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
      <symbols>
-          <Include href="Current day.xml" loadImmediate="false" itemID="56bcbbf0-00000005" lastModified="1455209615"/>
+          <Include href="Current day.xml" itemID="56bcbbf0-00000005" lastModified="1455212155"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">
@@ -9,7 +9,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Current day">
+                                        <DOMSymbolInstance libraryItemName="Current day" selected="true">
                                              <matrix>
                                                   <Matrix tx="512"/>
                                              </matrix>
@@ -26,10 +26,13 @@
      </timelines>
      <persistentData>
           <PD n="ane.tmp.unzipped.folder" v="C:\Users\seven\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
-          <PD n="com.air.sdk.path" v="D:\software\air18"/>
+          <PD n="com.air.sdk.path"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="2114" publishTime="1455212078"/>
+          <PublishItem publishSize="2082" publishTime="1455212051"/>
+          <PublishItem publishSize="2247" publishTime="1455209682"/>
           <PublishItem publishSize="2335" publishTime="1455209653"/>
           <PublishItem publishSize="2077" publishTime="1455209627" publishDebug="true"/>
      </publishHistory>
