@@ -30,7 +30,7 @@
   </PublishFormatProperties>
   <PublishHtmlProperties enabled="true">
     <VersionDetectionIfAvailable>0</VersionDetectionIfAvailable>
-    <VersionInfo>17,0,0,0;16,0,0,0;14,0,0,0;13,0,0,0;12,0,0,0;11,9,0,0;11,8,0,0;11,7,0,0;11,6,0,0;11,5,0,0;11,4,0,0;11,3,0,0;11,2,0,0;11,1,0,0;10,3,0,0;10,2,153,0;10,1,52,0;9,0,124,0;8,0,24,0;7,0,14,0;6,0,79,0;5,0,58,0;4,0,32,0;3,0,8,0;2,0,1,12;1,0,0,1;</VersionInfo>
+    <VersionInfo>0,0,0,0;17,0,0,0;16,0,0,0;14,0,0,0;13,0,0,0;12,0,0,0;11,9,0,0;11,8,0,0;11,7,0,0;11,6,0,0;11,5,0,0;11,4,0,0;11,3,0,0;11,2,0,0;11,1,0,0;10,3,0,0;10,2,153,0;10,1,52,0;9,0,124,0;8,0,24,0;7,0,14,0;6,0,79,0;5,0,58,0;4,0,32,0;3,0,8,0;2,0,1,12;1,0,0,1;</VersionInfo>
     <UsingDefaultContentFilename>1</UsingDefaultContentFilename>
     <UsingDefaultAlternateFilename>1</UsingDefaultAlternateFilename>
     <ContentFilename>YearBook_content.html</ContentFilename>
@@ -67,8 +67,8 @@
     <EventFormat>0</EventFormat>
     <EventCompress>7</EventCompress>
     <OverrideSounds>0</OverrideSounds>
-    <Version>10</Version>
-    <ExternalPlayer>AdobeAIR2_5</ExternalPlayer>
+    <Version>29</Version>
+    <ExternalPlayer>AdobeAIR_18.0.0.144</ExternalPlayer>
     <ActionScriptVersion>3</ActionScriptVersion>
     <PackageExportFrame>1</PackageExportFrame>
     <PackagePaths></PackagePaths>
@@ -163,10 +163,10 @@
     <jpegDefaultName>1</jpegDefaultName>
     <pngDefaultName>1</pngDefaultName>
     <swcDefaultName>1</swcDefaultName>
-    <flashFileName>C:\Users\seven\Adobe Flash Builder 4.6\YearBook\bin-debug\YearBook.swf</flashFileName>
+    <flashFileName>D:\Job\YearBook\Project\AS\src\YearBook.swf</flashFileName>
     <projectorWinFileName>YearBook.exe</projectorWinFileName>
     <projectorMacFileName>YearBook.app</projectorMacFileName>
-    <htmlFileName>C:\Users\seven\Adobe Flash Builder 4.6\YearBook\bin-debug\YearBook.html</htmlFileName>
+    <htmlFileName>D:\Job\YearBook\Project\AS\src\YearBook.html</htmlFileName>
     <gifFileName>YearBook.gif</gifFileName>
     <jpegFileName>YearBook.jpg</jpegFileName>
     <pngFileName>YearBook.png</pngFileName>
@@ -175,7 +175,7 @@
   </PublishFormatProperties>
   <PublishHtmlProperties enabled="true">
     <VersionDetectionIfAvailable>0</VersionDetectionIfAvailable>
-    <VersionInfo>17,0,0,0;16,0,0,0;14,0,0,0;13,0,0,0;12,0,0,0;11,9,0,0;11,8,0,0;11,7,0,0;11,6,0,0;11,5,0,0;11,4,0,0;11,3,0,0;11,2,0,0;11,1,0,0;10,3,0,0;10,2,153,0;10,1,52,0;9,0,124,0;8,0,24,0;7,0,14,0;6,0,79,0;5,0,58,0;4,0,32,0;3,0,8,0;2,0,1,12;1,0,0,1;</VersionInfo>
+    <VersionInfo>0,0,0,0;17,0,0,0;16,0,0,0;14,0,0,0;13,0,0,0;12,0,0,0;11,9,0,0;11,8,0,0;11,7,0,0;11,6,0,0;11,5,0,0;11,4,0,0;11,3,0,0;11,2,0,0;11,1,0,0;10,3,0,0;10,2,153,0;10,1,52,0;9,0,124,0;8,0,24,0;7,0,14,0;6,0,79,0;5,0,58,0;4,0,32,0;3,0,8,0;2,0,1,12;1,0,0,1;</VersionInfo>
     <UsingDefaultContentFilename>1</UsingDefaultContentFilename>
     <UsingDefaultAlternateFilename>1</UsingDefaultAlternateFilename>
     <ContentFilename>YearBook_content.html</ContentFilename>
@@ -213,7 +213,7 @@
     <EventCompress>7</EventCompress>
     <OverrideSounds>0</OverrideSounds>
     <Version>29</Version>
-    <ExternalPlayer>android_18.0.0.144</ExternalPlayer>
+    <ExternalPlayer>AdobeAIR_18.0.0.144</ExternalPlayer>
     <ActionScriptVersion>3</ActionScriptVersion>
     <PackageExportFrame>1</PackageExportFrame>
     <PackagePaths></PackagePaths>
@@ -228,7 +228,7 @@
     <StreamUse8kSampleRate>0</StreamUse8kSampleRate>
     <EventUse8kSampleRate>0</EventUse8kSampleRate>
     <UseNetwork>0</UseNetwork>
-    <DocumentClass></DocumentClass>
+    <DocumentClass>YearBook</DocumentClass>
     <AS3Strict>2</AS3Strict>
     <AS3Coach>4</AS3Coach>
     <AS3AutoDeclare>4096</AS3AutoDeclare>
@@ -269,7 +269,7 @@
     <Animated>0</Animated>
     <MatchMovieDim>1</MatchMovieDim>
     <Loop>1</Loop>
-    <LoopCount></LoopCount>
+    <LoopCount>0</LoopCount>
     <Smooth>1</Smooth>
     <MaxColors>255</MaxColors>
   </PublishGifProperties>
@@ -283,7 +283,7 @@
     <Property name="copy">true</Property>
     <Property name="default">true</Property>
     <Property name="embed">false</Property>
-    <Property name="filename">Untitled-1.svg</Property>
+    <Property name="filename">YearBook.svg</Property>
     <Property name="imagesPath">images</Property>
     <Property name="includeHiddenLayers">true</Property>
     <Property name="version">0.1</Property>

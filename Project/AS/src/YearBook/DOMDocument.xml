@@ -1,4 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1024" height="768" frameRate="30" currentTimeline="1" xflVersion="2.6" creatorInfo="Adobe Flash Professional CC" platform="Windows" versionInfo="Saved by Adobe Flash Windows 15.0 build 179" majorVersion="15" buildNumber="179" viewAngle3D="95.9964345971146" vanishingPoint3DX="240" vanishingPoint3DY="400" previewMode="full" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+     <fonts>
+          <DOMFontItem name="Font 1" itemID="56bcc7c1-0000000c" font="BMitraBold" size="0" id="1" sourceLastImported="1455212481" embedRanges="9999"/>
+     </fonts>
      <symbols>
           <Include href="Current day.xml" itemID="56bcbbf0-00000005" lastModified="1455212155"/>
      </symbols>
@@ -9,7 +12,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Current day" selected="true">
+                                        <DOMSymbolInstance libraryItemName="Current day">
                                              <matrix>
                                                   <Matrix tx="512"/>
                                              </matrix>
@@ -17,6 +20,19 @@
                                                   <Point y="156.5"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
+                                        <DOMShape selected="true" isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix a="2.46049499511719" d="1.052978515625" tx="-736.5" ty="-27.6"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FFFFFF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!1651 5808|18646 5808!18646 5808|18646 15039!18646 15039|1651 15039!1651 15039|1651 5808"/>
+                                             </edges>
+                                        </DOMShape>
                                    </elements>
                               </DOMFrame>
                          </frames>
@@ -26,10 +42,14 @@
      </timelines>
      <persistentData>
           <PD n="ane.tmp.unzipped.folder" v="C:\Users\seven\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
-          <PD n="com.air.sdk.path"/>
+          <PD n="com.air.sdk.path" v="D:\software\air18"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="48799" publishTime="1455212486" publishDebug="true"/>
+          <PublishItem publishSize="30182" publishTime="1455212466" publishDebug="true"/>
+          <PublishItem publishSize="2114" publishTime="1455212407" publishDebug="true"/>
+          <PublishItem publishSize="2115" publishTime="1455212267"/>
           <PublishItem publishSize="2114" publishTime="1455212078"/>
           <PublishItem publishSize="2082" publishTime="1455212051"/>
           <PublishItem publishSize="2247" publishTime="1455209682"/>

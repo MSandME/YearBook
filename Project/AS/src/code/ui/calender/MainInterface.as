@@ -33,9 +33,9 @@ package code.ui.calender
 			
 			var shamsi:MyShamsi = MyShamsi.miladiToShamsi(miladiDate) ;
 			dayName.text = UnicodeStatic.convert(CalenderConstants.dayNames[(miladiDate.day+2)%7],true) ;
-			day.text = shamsi.date ;
+			day.text = shamsi.date.toString() ;
 			monthName.text = UnicodeStatic.convert(CalenderConstants.monthNames[shamsi.month]) ;
-			yearTF.text = shamsi.fullYear ;
+			yearTF.text = shamsi.fullYear.toString()  ;
 		}
 	}
 }
