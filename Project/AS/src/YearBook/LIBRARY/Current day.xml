@@ -1,14 +1,14 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Current day" itemID="56bcbbf0-00000005" linkageExportForAS="true" linkageClassName="code.ui.calender.MainInterface" lastModified="1455393939">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Current day" itemID="56bcbbf0-00000005" linkageExportForAS="true" linkageClassName="code.ui.calender.MainInterface" lastModified="1455395069">
   <timeline>
     <DOMTimeline name="Current day">
       <layers>
-        <DOMLayer name="Layer 2" color="#9933CC">
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="day_txt" fontRenderingMode="standard" width="309.65" height="145.85" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
+                <DOMDynamicText name="day_txt" selected="true" fontRenderingMode="standard" width="309.65" height="145.85" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-44.1" ty="-17.6"/>
+                    <Matrix tx="-44.1" ty="-5.9"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -19,9 +19,9 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMDynamicText name="month_txt" fontRenderingMode="standard" width="309.65" height="75.95" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
+                <DOMDynamicText name="month_txt" selected="true" fontRenderingMode="standard" width="309.65" height="75.95" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-194.3" ty="6.9"/>
+                    <Matrix tx="-194.3" ty="18.6"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -32,9 +32,9 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMDynamicText name="year_txt" fontRenderingMode="standard" width="309.65" height="91.15" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
+                <DOMDynamicText name="year_txt" selected="true" fontRenderingMode="standard" width="309.65" height="91.15" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
                   <matrix>
-                    <Matrix tx="-357.75" ty="2"/>
+                    <Matrix tx="-357.75" ty="13.7"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -45,9 +45,9 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMDynamicText name="day_name_txt" fontRenderingMode="standard" left="111.9" width="197.75" height="75.95" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
+                <DOMDynamicText name="day_name_txt" selected="true" fontRenderingMode="standard" left="111.9" width="197.75" height="75.95" antiAliasSharpness="-80" antiAliasThickness="200" isSelectable="false">
                   <matrix>
-                    <Matrix tx="24.6" ty="2"/>
+                    <Matrix tx="24.6" ty="13.7"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -62,21 +62,22 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="BackGround" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="BackGround" color="#4F80FF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMShape selected="true" isDrawingObject="true">
-                  <matrix>
-                    <Matrix d="0.368988037109375" tx="-571" ty="8.15"/>
-                  </matrix>
+                <DOMShape isDrawingObject="true">
                   <fills>
                     <FillStyle index="1">
-                      <SolidColor/>
+                      <BitmapFill bitmapPath="Bitmap 2.png">
+                        <matrix>
+                          <Matrix a="26.90185546875" d="26.90185546875" tx="-1068.5" ty="-9.7"/>
+                        </matrix>
+                      </BitmapFill>
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!-9488 -440|32328 -440!32328 -440|32328 5820!32328 5820|-9488 5820!-9488 5820|-9488 -440"/>
+                    <Edge fillStyle1="1" edges="!-20908 1|20908 1!20908 1|20908 2311!20908 2311|-20908 2311!-20908 2311|-20908 1"/>
                   </edges>
                 </DOMShape>
               </elements>

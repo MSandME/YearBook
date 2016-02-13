@@ -22,11 +22,11 @@ package code.ui.calender
 			this.addEventListener(Event.REMOVED_FROM_STAGE,clearDrawing);
 		}
 		
-		
+ 		
 		protected function onDrawStarted(event:MouseEvent):void
 		{
 			// TODO Auto-generated method stub
-			myPaper.startDraw(0,3,this.mouseX,this.mouseY);
+			myPaper.startDraw(0x002200,5,this.mouseX,this.mouseY);
 			
 			stage.addEventListener(MouseEvent.MOUSE_UP,stopDrawing);
 			this.addEventListener(Event.ENTER_FRAME,drawing);

@@ -2,8 +2,12 @@
      <fonts>
           <DOMFontItem name="Font 1" itemID="56bcc7c1-0000000c" font="BMitraBold" size="0" id="1" sourceLastImported="1455212481" embedRanges="9999"/>
      </fonts>
+     <media>
+          <DOMBitmapItem name="Bitmap 1" itemID="56bf8eff-0000000f" sourceLastImported="1455394559" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Bitmap 1" bitmapDataHRef="M 1 1455394559.dat" frameRight="18460" frameBottom="2260"/>
+          <DOMBitmapItem name="Bitmap 2.png" itemID="56bf8fa6-00000015" sourceExternalFilepath="./LIBRARY/Bitmap 2" sourceLastImported="1455394702" externalFileSize="133442" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Bitmap 2.png" bitmapDataHRef="M 2 1455394585.dat" frameRight="31780" frameBottom="2020"/>
+     </media>
      <symbols>
-          <Include href="Current day.xml" itemID="56bcbbf0-00000005" lastModified="1455393939"/>
+          <Include href="Current day.xml" itemID="56bcbbf0-00000005" lastModified="1455395069"/>
           <Include href="Draw pad.xml" itemID="56bcc815-00000013" lastModified="1455393949"/>
      </symbols>
      <timelines>
@@ -37,11 +41,28 @@
           </DOMTimeline>
      </timelines>
      <persistentData>
+          <PD n="com.air.artemis.airdest" v="YearBook.apk"/>
+          <PD n="com.air.oldTargetPlatform" v="Android"/>
           <PD n="ane.tmp.unzipped.folder" v="C:\Users\seven\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
           <PD n="com.air.sdk.path" v="D:\software\air18"/>
+          <PD n="com.air.artemis.pubair" v="true"/>
+          <PD n="com.air.agistri.proctype" v="arm"/>
+          <PD n="com.air.artemis.pubipa" v="false"/>
+          <PD n="flash.swf.basename" v="YearBook"/>
+          <PD n="com.air.agistri.runtimetype" v="share"/>
+          <PD n="com.air.agistri.publishtype" v="release"/>
+          <PD n="com.air.agistri.hostip" v="Default"/>
+          <PD n="flash.fla.filepath" v="D:/Job/YearBook/Project/AS/src/YearBook/YearBook.xfl"/>
+          <PD n="swf.folder.path" v="D:/Job/YearBook/Project/AS/src/"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="52707" publishTime="1455395001"/>
+          <PublishItem publishSize="52720" publishTime="1455394994"/>
+          <PublishItem publishSize="52720" publishTime="1455394987"/>
+          <PublishItem publishSize="52707" publishTime="1455394958"/>
+          <PublishItem publishSize="63011" publishTime="1455394807" publishDebug="true"/>
+          <PublishItem publishSize="63007" publishTime="1455394739" publishDebug="true"/>
           <PublishItem publishSize="52093" publishTime="1455393809"/>
           <PublishItem publishSize="51991" publishTime="1455212765" publishDebug="true"/>
           <PublishItem publishSize="51834" publishTime="1455212733" publishDebug="true"/>

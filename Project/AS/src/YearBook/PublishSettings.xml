@@ -68,7 +68,7 @@
     <EventCompress>7</EventCompress>
     <OverrideSounds>0</OverrideSounds>
     <Version>29</Version>
-    <ExternalPlayer>AdobeAIR_18.0.0.144</ExternalPlayer>
+    <ExternalPlayer>android_18.0.0.144</ExternalPlayer>
     <ActionScriptVersion>3</ActionScriptVersion>
     <PackageExportFrame>1</PackageExportFrame>
     <PackagePaths></PackagePaths>
