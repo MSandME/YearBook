@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Draw pad" itemID="56bcc815-00000013" linkageExportForAS="true" linkageClassName="code.ui.calender.MyDrawPad" lastModified="1455212685">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Draw pad" itemID="56bcc815-00000013" linkageExportForAS="true" linkageClassName="code.ui.calender.MyDrawPad" lastModified="1455393949">
   <timeline>
     <DOMTimeline name="Draw pad">
       <layers>
@@ -6,9 +6,9 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMShape selected="true" isDrawingObject="true">
+                <DOMShape isDrawingObject="true">
                   <matrix>
-                    <Matrix a="2.46049499511719" d="1.052978515625" tx="-203.1" ty="-305.8"/>
+                    <Matrix a="2.46049499511719" d="1.4132080078125" tx="-203.1" ty="-410.4"/>
                   </matrix>
                   <fills>
                     <FillStyle index="1">

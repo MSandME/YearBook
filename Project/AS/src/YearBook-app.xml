@@ -19,7 +19,7 @@
 <application xmlns="http://ns.adobe.com/air/application/18.0">
   <id>YearBook</id>
   <versionNumber>1.0.0</versionNumber>
-  <versionLabel></versionLabel>
+  <versionLabel/>
   <filename>YearBook</filename>
   <description/>
   <name>YearBook</name>

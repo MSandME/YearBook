@@ -3,8 +3,8 @@
           <DOMFontItem name="Font 1" itemID="56bcc7c1-0000000c" font="BMitraBold" size="0" id="1" sourceLastImported="1455212481" embedRanges="9999"/>
      </fonts>
      <symbols>
-          <Include href="Current day.xml" itemID="56bcbbf0-00000005" lastModified="1455212155"/>
-          <Include href="Draw pad.xml" itemID="56bcc815-00000013" lastModified="1455212685"/>
+          <Include href="Current day.xml" itemID="56bcbbf0-00000005" lastModified="1455393939"/>
+          <Include href="Draw pad.xml" itemID="56bcc815-00000013" lastModified="1455393949"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">
@@ -13,7 +13,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Current day">
+                                        <DOMSymbolInstance libraryItemName="Current day" selected="true">
                                              <matrix>
                                                   <Matrix tx="512"/>
                                              </matrix>
@@ -23,7 +23,7 @@
                                         </DOMSymbolInstance>
                                         <DOMSymbolInstance libraryItemName="Draw pad">
                                              <matrix>
-                                                  <Matrix tx="-533.4" ty="278.2"/>
+                                                  <Matrix tx="-533.4" ty="114.35"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="1045.4" y="243"/>
@@ -42,6 +42,7 @@
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="52093" publishTime="1455393809"/>
           <PublishItem publishSize="51991" publishTime="1455212765" publishDebug="true"/>
           <PublishItem publishSize="51834" publishTime="1455212733" publishDebug="true"/>
           <PublishItem publishSize="51825" publishTime="1455212710" publishDebug="true"/>
